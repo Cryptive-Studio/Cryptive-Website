@@ -1,0 +1,17 @@
+body {
+    background-color: #3D348B;
+}
+
+#countdown {
+    padding-top: 12%;
+}
+
+p{
+    font-size: xxx-large;
+    color: white;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+}
